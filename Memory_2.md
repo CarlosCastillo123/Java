@@ -27,3 +27,9 @@ s1 becomes eligible for garbage collection
 This happens right after s1 = s2
 ## 4) Does Java immediately delete it?
 Not ecatly Java performs garbage collection whenever it tries to free up memory
+# Part 4
+Why are these objects NOT garbage collected?
+These objects are not garbage collected becasue they do not 
+What would you change to fix this?
+
+Modify the code to prevent the leak.
