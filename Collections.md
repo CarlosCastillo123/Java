@@ -33,5 +33,6 @@ void main(String[] args) {
 ```
 ## Output for civic
 <img width="569" height="170" alt="Screenshot 2026-03-18 165116" src="https://github.com/user-attachments/assets/849650d8-b85e-48ae-8b84-d1338e5e5de2" />
+
 ## Output for rotostor
 <img width="557" height="179" alt="Screenshot 2026-03-18 165058" src="https://github.com/user-attachments/assets/0ae82bdc-12ff-4a3d-a3f2-54c8c3c0d461" />
