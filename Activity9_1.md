@@ -1,4 +1,4 @@
-# 9.1 insertion sort
+# 9.1 Insertion Sort
 ``` java 
 import java.util.*;
 
